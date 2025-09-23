@@ -7,4 +7,4 @@ u=int(input("enter your present day"))
 years=r-a
 months=12-b+t 
 days=c
-print (years, months, days)
+print (years, abs(months), days)
