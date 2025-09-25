@@ -1,1 +1,10 @@
-user need to select two numbers  and the randint select a random number from the range ,the user need to guess the number , if the number is is lower than the guess it will show lower, if the number is is higher than the guess it will show greater according to that u can guess the number.
+✅ User chooses a range (two numbers).
+✅ Program picks a random number in that range using randint.
+✅ User keeps guessing until correct.
+✅ Program gives hints:
+
+✅ “Lower” if the secret number is lower than the guess.
+✅ “Higher” if the secret number is higher than the guess.
+  
+✅ Continuous hints until correct
+✅ A play-again option (y/n) after each win
