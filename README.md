@@ -1,0 +1,1 @@
+user need to select two numbers  and the randint select a random number from the range ,the user need to guess the number , if the number is is lower than the guess it will show lower, if the number is is higher than the guess it will show greater according to that u can guess the number.
